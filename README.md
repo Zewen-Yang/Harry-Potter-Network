@@ -1,4 +1,5 @@
-# Character Relationship of Harry Potter Books 
+# Relationship extraction and network analyses for Harry Potter Books 
+
 
 Book Index - [Homepage](https://zewen-yang.github.io/Harry-Potter-Network/)
 
