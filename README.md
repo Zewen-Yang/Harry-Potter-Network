@@ -1,9 +1,9 @@
-# Relationship extraction and network analyses for Harry Potter Books 
-
+# Character relationship extraction and community analyses for Harry Potter Series
 
 Book Index - [Homepage](https://zewen-yang.github.io/Harry-Potter-Network/)
 
-## Tutorial: 
+
+## Network Visualization: 
 
 * Book 1 - [Harry Potter and the Philosopher's Stone](https://zewen-yang.github.io/Harry-Potter-Network/1-Philosopher's_Stone.html)
 
