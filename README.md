@@ -4,9 +4,9 @@
 
 
 ## This project shows how the real problem can be resolved by NLP, Web Crawling, ect.
-- 1. Scrap All the characters' name of Harry Potter Series form a website by [Selenium].(https://selenium-python.readthedocs.io/installation.html)
-- 2. Named entity recognition by [spaCy].(https://spacy.io/usage)
-- 3. Network visualization by [networkx](https://networkx.org/documentation/stable/install.html) and [pyvis].(https://pyvis.readthedocs.io/en/latest/install.html)
+- 1. Scrap All the characters' name of Harry Potter Series form a website by [Selenium](https://selenium-python.readthedocs.io/installation.html).
+- 2. Named entity recognition by [spaCy](https://spacy.io/usage).
+- 3. Network visualization by [networkx](https://networkx.org/documentation/stable/install.html) and [pyvis](https://pyvis.readthedocs.io/en/latest/install.html).
 
 
 ## Book Index: 
@@ -26,4 +26,4 @@
 * Book 7 - [Harry Potter and the Deathly Hallows](https://zewen-yang.github.io/Harry-Potter-Network/7-Deathly_Hallows.html)
 
 
-The website UI is going to be improved! ;)
+### The website UI is going to be improved soon! ;)
